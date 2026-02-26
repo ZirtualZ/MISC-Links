@@ -2,5 +2,5 @@
 
 I created this repo to hopefully get to google easier from a broken testing app on my school managed chromebook
 https://google.com
-https://novnc.marshal-tech.xyz
+https://vnc.marshal-tech.xyz
 
