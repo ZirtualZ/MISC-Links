@@ -1,6 +1,5 @@
-# Google-link
-
-I created this repo to hopefully get to google easier from a broken testing app on my school managed chromebook
-https://google.com
-https://vnc.marshal-tech.xyz
-https://remotedesktop.google.com
+#Chromebook Web Access Links
+A collection of mirrors and remote tools to bypass issues with broken or restrictive testing environments on managed devices.
+Search: google.com
+VNC: vnc.marshal-tech.xyz
+Remote: remotedesktop.google.com
