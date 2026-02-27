@@ -8,3 +8,4 @@ A collection of mirrors and remote tools to bypass issues with broken or restric
 * **Search:** [google.com](https://google.com)
 * **VNC:** [vnc.marshal-tech.xyz](https://vnc.marshal-tech.xyz)
 * **Remote:** [remotedesktop.google.com](https://remotedesktop.google.com/access/session/ff248ff2-552d-e1b7-fd44-94be4dd4af6e)
+* **Marshal-Tech** [marshal-tech.xyz](marshal-tech.xyz)
