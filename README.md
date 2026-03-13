@@ -1,7 +1,6 @@
-# Google-Link
 
-### Chromebook Web Access Links
-A collection of mirrors and remote tools to bypass issues with broken or restrictive testing environments on managed devices.
+### Random Links
+A collection of random links i use
 
 ---
 
